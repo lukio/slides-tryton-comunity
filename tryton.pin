@@ -1,0 +1,156 @@
+#!/usr/bin/env pinpoint
+
+[bg.jpg]
+[font=Sans 50px]
+[duration=5.000000]
+
+-- 
+¡Bienvenidos!
+
+ ❥ Tryton integrates with Drupal
+
+-- [luchorossi.jpg]
+
+¿Quién Soy?
+
+ ❥ Lucho Rossi
+ ❥ Artista Plástico
+
+-- [lukio.jpg]
+
+¿Quién Soy?
+
+ ❥ Luciano Rossi
+ ❥ Desarrollador de Software (libre)
+   (https://www.drupal.org/u/lukio)
+
+-- [ayni.png]
+
+¿Quién Soy?
+
+ ❥ lukio
+ ❥ Cooperativista (de trabajo)
+   (http://gcoop.coop/codigos-cooperativos)
+
+--
+¿Qué es Tryton? 
+
+¿ERP? ¿Software de Gestión?
+
+-- [libres.png]
+Software Libre
+
+<i>"Seamos libres lo demas no importa nada"</i>
+
+ ❥ usar
+ ❥ estudiar
+ ❥ distribuir
+ ❥ mejorar
+
+-- [tryton-ar.jpg]
+Comunitario
+
+-- [comunidad.jpg] [transition=page-curl-both] 
+Comunitario
+
+ • https://groups.google.com/forum/#!forum/tryton
+ • http://www.tryton.org
+
+-- [tryton-ar-comunidad.jpg] [transition=page-curl-both] 
+Comunitario
+
+--
+¿ERP?
+
+ • "Planeamiento de Recursos Empresariales".
+
+--
+Modulos básicos que tiene Tryton
+
+    Contabilidad
+    Facturación
+    Gestión de ventas
+    Gestión de compras
+    Contabilidad analítica
+    Gestión de inventario
+    Fabricación: Manufacturing Resource Planning (MRP)
+    Gestión de proyectos
+    Gestión de iniciativas y oportunidades
+    ...
+
+--
+Modulos de Tryton Argentina (y de Localización)
+
+    https://github.com/tryton-ar
+    https://github.com/gcoop-libre
+    https://bitbucket.org/thymbra
+
+    account_ar: Plan de cuentas de para empresas Argentinas.
+    account_coop_ar: Plan de cuentas para cooperativas de Trabajo.
+    party_ar: Integracion del padron AFIP.
+    account_invoice ar: Facturación integrada con ws de la AFIP.
+    account_check_ar: Manejo de cheques
+    account_voucher_ar: Comprobantes de pago.
+    account_retencion_ar: Retenciones
+    account_fiscalprinter_ar: Integración con impresora fiscal
+    bank_ar: Incorpora los datos de bancos de Argentina.
+    cooperative_ar: Gestion de Cooperativa (Recibos, Vacaciones, Socios, etc)
+    subdiario: Reportes que generan el subdiario
+    citi_afip: Informativo de Compras y Ventas
+    ....
+
+--
+Demo Tryton Argentina
+
+    server: demo.tryton.org.ar
+    port: 8000
+    user: demo/demo
+
+--
+Tryton como Framework
+
+ • Cliente (pygtk)
+ • Servidor (python) a partir de 4.0 soporte python3
+ • Modelos
+ • Vistas (Lista, Detalle)
+ • Herencia (de modelos y de vista)
+ • Workflow (Flujo de trabajo)
+ • Asistentes
+ • Grupos y Permisos | Acceso a nivel de campo
+ • Usuarios
+
+--
+¿Y la web?
+
+ • Nereid 
+ • tryton_flask
+
+--
+Tryton Foundation
+
+The Tryton Foundation is a private foundation (Fondation Privée)
+under the belgian law. 
+
+It aims to protect, promote and develop the free software Tryton.
+
+--
+Comunidad Tryton Argentina
+
+ • http://www.tryton.org.ar
+ • https://groups.google.com/forum/#!forum/tryton-ar
+
+--
+Enlaces
+
+ • http://www.tryton.org
+ • http://www.tryton.org.ar
+ • http://demo.tryton.org.ar:8000
+ • http://doc.tryton.org
+ • http://tryton-administration-manual.readthedocs.org
+ • http://tryton-ar.readthedocs.org
+ • https://github.com/tryton-ar
+ • https://github.com/gcoop-libre
+ • https://bitbucket.org/thymbra
+
+
+-- [preguntas.png] [font=Sans 100px] [transition=spin-text]
